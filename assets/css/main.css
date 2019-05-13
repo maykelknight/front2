@@ -211,6 +211,9 @@ h3 {
     max-width: 800px;
     margin: 0 auto;
     letter-spacing: 0.5px; }
+  @media (max-width: 768px) {
+    .experience {
+      background-attachment: scroll; } }
 
 .showcase {
   background: #eeeeee; }
